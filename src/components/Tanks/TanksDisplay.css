@@ -1,0 +1,22 @@
+.tanks-display {
+    padding: 20px;
+  }
+  
+  .tank-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .tank {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 45%;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .tank h3 {
+    margin: 0 0 10px 0;
+  }
+  
